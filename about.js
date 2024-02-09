@@ -1,4 +1,4 @@
-const szavak = ["Az", "idő", "pénz", "a pénz", "idő"];
+const szavak = ["Az", "idő", "pénz,", "a pénz", "idő"];
 const panelBackgrounds = [
 
     'https://image.cnbcfm.com/api/v1/image/107308670-1695930955313-gettyimages-1478432952-118.jpeg?v=1706756723',
@@ -22,7 +22,7 @@ export const about = ()=>{
                 FiveDiv.textContent= szavak[i];
                 parent.appendChild(FiveDiv);
             }
-            document.body.appendChild(parent)
+            document.querySelector("main").appendChild(parent)
 
             const panelNodeList = document.querySelectorAll(".panel")
             panelNodeList.forEach((item,index) => {
