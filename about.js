@@ -5,9 +5,9 @@ const panelBackgrounds = [
 
      'https://ychef.files.bbci.co.uk/1280x720/p02k6vry.jpg',
 
-    'https://lh3.googleusercontent.com/proxy/nW0ulQF55PO7lP9jJuARckORNKUhamyn2XF5amS1TllwqSKGPKQIw95qLEEFjpzEDYU4xoa7Z6m03sLD9uFrxWMtU8g8FJC0viZmDF2LmKuUPrdBp7N7arKXY-QRFQfaXLer',
+    'https://www.livemint.com/lm-img/img/2023/11/27/1600x900/zlataky-cz-44ewivJ9t1k-unsplash_1646898717970_1701067646117_1701104750104.jpg',
 
-     'https://cdn4.vectorstock.com/i/1000x1000/87/23/golden-coin-background-vector-7398723.jpg',
+     'https://pics.craiyon.com/2023-06-10/50b039e0208e45a8a197a4a5804838b4.webp',
 
      'https://cloudfront-us-east-1.images.arcpublishing.com/opb/HVVSBBPH3AYZDQEIWP7AXLCLVA.jpg'
 
