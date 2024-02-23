@@ -2,7 +2,7 @@ import {about} from "./about.js"
 import { projects } from "./projects.js"
 const urlJson = "https://raw.githubusercontent.com/MagyarBene/projects-json/main/projects-json"
 const routes={
-    "home":"home.html",
+    "":"home.html",
     "about":"about.html",
     "projects":"projects.html",
     "contact":"contact.html"
